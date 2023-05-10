@@ -1,11 +1,11 @@
 {
-  "name": "premium-watches",
+  "name": "GoitStudentsWorks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/premium-watches/",
+    "build": "vite build --base=/html_css_86_Alexblack19/",
     "preview": "vite preview"
   },
   "devDependencies": {
